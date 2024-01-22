@@ -1,0 +1,26 @@
+<svg viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g transform="scale(-1, 1) translate(-34, 0)">
+        <path opacity="0.7" d="M29 17H33" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.1" d="M1 17H5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path d="M17 5V1" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.4" d="M17 33V29" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.7" d="M28.5898 20.1074L32.4535 21.1427" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.1" d="M1.54297 12.8594L5.40667 13.8947" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path d="M20.1055 5.41016L21.1407 1.54645" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.4" d="M12.8594 32.4551L13.8947 28.5914" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.6" d="M27.3906 23L30.8547 25" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.05" d="M3.14062 9L6.60473 11" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.9" d="M23 6.60742L25 3.14332" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.3" d="M9 30.8574L11 27.3933" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.6" d="M25.4844 25.4844L28.3128 28.3128" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.05" d="M5.68359 5.68555L8.51202 8.51397" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.9" d="M25.4805 8.51367L28.3089 5.68524" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.3" d="M5.68359 28.3145L8.51202 25.486" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.5" d="M22.9961 27.3906L24.9961 30.8547" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.8" d="M27.3906 11.002L30.8547 9.00195" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.2" d="M3.14453 25.002L6.60863 23.002" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.8" d="M28.5938 13.8926L32.4575 12.8573" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.2" d="M1.54688 21.1387L5.41058 20.1034" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        <path opacity="0.5" d="M21.1445 32.4531L20.1093 28.5894" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+    </g>
+</svg>
