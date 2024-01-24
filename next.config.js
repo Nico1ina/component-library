@@ -15,7 +15,6 @@ const nextConfig = {
       },
       {
         test: /\.svg$/i,
-        issuer: /\.[jt]sx?$/,
         resourceQuery: { not: /url/ },
         include: [path.resolve(__dirname, 'public/assets/icons')],
         use: {
@@ -27,7 +26,6 @@ const nextConfig = {
       },
       {
         test: /\.svg$/i,
-        issuer: /\.[jt]sx?$/,
         resourceQuery: { not: /url/ },
         exclude: [path.resolve(__dirname, 'public/assets/icons')],
         use: {
