@@ -16,7 +16,7 @@ export default function Page() {
     </header>
 
  <div>
-  <section className="ml-60">
+  <section className="ml-60 mb-2">
   <iframe
   className='ml-40 mt-2'
   src="https://headless-github.vercel.app/?path=/docs/components-inputs-button--docs&viewMode=story&shortcuts=false&singleStory=true"

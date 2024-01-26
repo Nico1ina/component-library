@@ -30,7 +30,7 @@ const buttonFamilyClasses: IButtonFamilyClasses = {
       loadingIcon: 'white',
     },
     secondary: {
-      base: 'bg-surface-white text-surface border-surface-100  hover:bg-surface-50 hover:border-surface-300 active:bg-surface-50 active:shadow-inner-md-pressed active:border-surface-100',
+      base: 'bg-surface-white text-surface border-surface-100  hover:bg-surface-50 rounded hover:border-surface-300 active:bg-surface-50 active:shadow-inner-md-pressed active:border-surface-100',
       disabled: 'text-surface-300 bg-surface-100 border-surface-100',
       loadingIcon: 'neutral',
     },
